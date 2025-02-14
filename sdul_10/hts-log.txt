@@ -1,0 +1,27 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 14 Feb 2025 00:31:14 at https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/
+(winhttrack https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/ -O "/home/tttardigrade/websites/sdul_10" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:32:17	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/tab/team/POST/ (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/tab/team/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/tab/speaker/POST/ (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/tab/speaker/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/tab/speaker/AM/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/tab/speaker/AM/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/motions/statistics/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/motions/statistics/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/checkins/status/people/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/checkins/status/people/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/1/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/1/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/2/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/2/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/3/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/3/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/4/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/4/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/5/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/5/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/6/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/round/6/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/participants/list/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/participants/list/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/results/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/motions/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/motions/)
+00:35:06	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/donations/POST (from https://debatecompetitivo.herokuapp.com/10_interno_sdul_2021/donations/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 52 seconds : 45 links scanned, 28 files written (1060025 bytes overall) [311586 bytes received at 1343 bytes/sec], 1223736 bytes transferred using HTTP compression in 45 files, ratio 21%, 2.4 requests per connection
+(16 errors, 0 warnings, 0 messages)

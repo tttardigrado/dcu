@@ -1,0 +1,30 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 14 Feb 2025 09:21:44 at https://debatecompetitivo.herokuapp.com/opendominho2024/
+(winhttrack https://debatecompetitivo.herokuapp.com/opendominho2024/ -O "/home/tttardigrade/websites/minho24" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:23:24	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/tab/team/POST/ (from https://debatecompetitivo.herokuapp.com/opendominho2024/tab/team/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/tab/team/Iniciados/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/tab/team/Iniciados/)
+09:28:26	Error: 	"Forbidden" (403) at link https://debatecompetitivo.herokuapp.com/opendominho2024/tab/speaker/POST/ (from https://debatecompetitivo.herokuapp.com/opendominho2024/tab/speaker/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/motions/statistics/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/motions/statistics/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/1/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/1/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/2/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/2/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/3/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/3/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/4/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/4/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/5/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/5/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/6/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/6/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/7/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/7/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/8/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/round/8/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/break/teams/open/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/break/teams/open/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/break/teams/Iniciados/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/break/teams/Iniciados/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/break/adjudicators/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/break/adjudicators/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/participants/list/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/participants/list/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/results/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/results/)
+09:28:26	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/opendominho2024/donations/POST (from https://debatecompetitivo.herokuapp.com/opendominho2024/donations/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 42 seconds : 55 links scanned, 35 files written (1632948 bytes overall) [409222 bytes received at 1017 bytes/sec], 1841921 bytes transferred using HTTP compression in 55 files, ratio 19%, 1.8 requests per connection
+(19 errors, 0 warnings, 0 messages)

@@ -1,0 +1,26 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 14 Feb 2025 09:13:09 at https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/
+(winhttrack https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/ -O "/home/tttardigrade/websites/verao23" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:14:17	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/tab/speaker/POST/ (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/tab/speaker/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/motions/statistics/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/motions/statistics/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/1/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/1/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/2/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/2/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/3/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/3/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/4/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/4/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/5/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/5/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/6/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/round/6/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/break/adjudicators/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/break/adjudicators/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/tab/current-standings/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/tab/current-standings/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/results/)
+09:19:32	Warning: 	Retry after error -2 (Receive Time Out) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/motions/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/motions/)
+09:19:32	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/donations/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/donations/)
+09:19:33	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/motions/POST (from https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/motions/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 24 seconds : 42 links scanned, 26 files written (1005167 bytes overall) [282363 bytes received at 735 bytes/sec], 1148730 bytes transferred using HTTP compression in 41 files, ratio 20%, 1.9 requests per connection
+(14 errors, 1 warnings, 0 messages)

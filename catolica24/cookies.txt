@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+debatecompetitivo.herokuapp.com	TRUE	/	FALSE	1999999999	csrftoken	kk7L5r9CDCG2E9tAlnmLAml6F9y5BVLnGIl5HQSNDjQm5NtMpgiI6zNS8ZmZSUJL
+debatecompetitivo.herokuapp.com	TRUE	/	FALSE	1999999999	sessionid	ly2sxygxcfdcjpjn21hvclrabtlvqki9
+debatecompetitivo.herokuapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

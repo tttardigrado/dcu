@@ -1,0 +1,28 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 14 Feb 2025 09:06:48 at https://debatecompetitivo.herokuapp.com/distrital_porto_2023/
+(winhttrack https://debatecompetitivo.herokuapp.com/distrital_porto_2023/ -O "/home/tttardigrade/websites/distrital23" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:07:51	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/tab/team/POST/ (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/tab/team/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/tab/speaker/POST/ (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/tab/speaker/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/motions/statistics/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/motions/statistics/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/1/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/1/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/2/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/2/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/3/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/3/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/4/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/4/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/5/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/5/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/6/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/round/6/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/break/teams/open/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/break/teams/open/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/break/adjudicators/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/break/adjudicators/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/tab/diversity/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/tab/diversity/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/participants/list/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/participants/list/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/results/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/motions/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/motions/)
+09:11:54	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/distrital_porto_2023/donations/POST (from https://debatecompetitivo.herokuapp.com/distrital_porto_2023/donations/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 6 seconds : 47 links scanned, 29 files written (1082050 bytes overall) [320041 bytes received at 1045 bytes/sec], 1255763 bytes transferred using HTTP compression in 47 files, ratio 21%, 1.9 requests per connection
+(17 errors, 0 warnings, 0 messages)

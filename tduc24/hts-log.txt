@@ -1,0 +1,27 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 14 Feb 2025 09:29:51 at https://debatecompetitivo.herokuapp.com/vii-tduc/
+(winhttrack https://debatecompetitivo.herokuapp.com/vii-tduc/ -O "/home/tttardigrade/websites/tduc24" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:30:55	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/)
+09:34:37	Error: 	"Forbidden" (403) at link https://debatecompetitivo.herokuapp.com/vii-tduc/tab/team/POST/ (from https://debatecompetitivo.herokuapp.com/vii-tduc/tab/team/)
+09:34:37	Error: 	"Forbidden" (403) at link https://debatecompetitivo.herokuapp.com/vii-tduc/tab/speaker/POST/ (from https://debatecompetitivo.herokuapp.com/vii-tduc/tab/speaker/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/motions/statistics/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/motions/statistics/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/1/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/1/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/2/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/2/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/3/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/3/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/4/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/4/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/5/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/results/round/5/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/break/teams/open/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/break/teams/open/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/break/adjudicators/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/break/adjudicators/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/tab/diversity/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/tab/diversity/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/participants/list/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/participants/list/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/results/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/results/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/motions/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/motions/)
+09:34:37	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/vii-tduc/donations/POST (from https://debatecompetitivo.herokuapp.com/vii-tduc/donations/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 46 seconds : 43 links scanned, 26 files written (929906 bytes overall) [294898 bytes received at 1031 bytes/sec], 1122927 bytes transferred using HTTP compression in 43 files, ratio 22%, 1.9 requests per connection
+(16 errors, 0 warnings, 0 messages)

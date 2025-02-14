@@ -1,0 +1,19 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 14 Feb 2025 09:30:56 at https://debatecompetitivo.herokuapp.com/internoadaum24/
+(winhttrack https://debatecompetitivo.herokuapp.com/internoadaum24/ -O "/home/tttardigrade/websites/adaum24" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:31:59	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/results/round/1/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/results/round/1/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/results/round/2/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/results/round/2/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/results/round/3/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/results/round/3/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/motions/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/motions/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/tab/current-standings/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/tab/current-standings/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/results/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/results/)
+09:32:28	Error: 	"Not Found" (404) at link https://debatecompetitivo.herokuapp.com/internoadaum24/donations/POST (from https://debatecompetitivo.herokuapp.com/internoadaum24/donations/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 32 seconds : 23 links scanned, 14 files written (415297 bytes overall) [146870 bytes received at 1596 bytes/sec], 498694 bytes transferred using HTTP compression in 23 files, ratio 24%, 2.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
